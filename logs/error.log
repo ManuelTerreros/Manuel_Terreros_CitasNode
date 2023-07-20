@@ -1,0 +1,525 @@
+2023-06-20T01:44:44.850Z-error: Dabase Error
+2023-06-20T01:45:30.354Z-error: Dabase Error
+2023-06-20T01:46:00.712Z-error: Dabase Error
+2023-06-20T01:50:39.496Z-error: Dabase Error
+2023-06-20T01:51:14.659Z-error: Dabase Error
+2023-06-20T02:07:17.298Z-error: Dabase Error
+2023-06-20T02:11:05.205Z-error: Dabase Error
+2023-06-20T02:12:03.094Z-error: Dabase Error
+2023-06-20T02:19:20.075Z-error: Dabase Error
+2023-06-22T01:03:03.256Z-error: Unexpected token } in JSON at position 94
+2023-06-22T01:05:32.138Z-error: Unexpected token } in JSON at position 94
+2023-06-22T01:06:00.575Z-error: Unexpected token ' in JSON at position 16
+2023-06-22T01:11:32.027Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:14:29.015Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:09.123Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:09.123Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:15:22.358Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:22.358Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:16:29.269Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:18:02.786Z-error: Internal Server Error
+2023-06-22T01:19:08.626Z-error: Internal Server Error
+2023-06-22T01:19:16.801Z-error: Internal Server Error
+2023-06-22T01:19:47.999Z-error: Internal Server Error
+2023-06-22T01:20:33.396Z-error: Internal Server Error
+2023-06-22T01:22:44.205Z-error: Internal Server Error
+2023-06-22T01:24:40.933Z-error: Internal Server Error
+2023-06-22T01:32:55.481Z-error: Failed to create doctor
+2023-06-22T01:33:51.958Z-error: Failed to create doctor
+2023-06-22T01:34:09.975Z-error: Failed to create doctor
+2023-06-22T01:36:05.413Z-error: Failed to create doctor repository
+2023-06-22T01:36:55.931Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:39:07.486Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:45:03.544Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:45:26.417Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:48:06.008Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T02:28:21.280Z-error: Record has not found yet
+2023-06-22T02:30:36.460Z-error: Record has not found yet
+2023-06-22T02:31:34.848Z-error: Record has not found yet
+2023-06-22T02:32:01.334Z-error: Record has not found yet
+2023-06-22T02:32:35.323Z-error: Record has not found yet
+2023-06-22T02:34:41.157Z-error: Failed get doctor by id in repository
+2023-06-22T02:34:41.157Z-error: Record has not found yet
+2023-06-22T02:35:16.091Z-error: Record has not found yet
+2023-06-22T02:36:03.877Z-error: Failed get doctor by id in repository
+2023-06-22T02:36:03.878Z-error: Record has not found yet
+2023-06-22T02:42:19.366Z-error: Internal Server Error
+2023-06-22T02:42:55.239Z-error: Internal Server Error
+2023-06-22T02:43:11.640Z-error: Internal Server Error
+2023-06-22T02:45:05.590Z-error: Internal Server Error
+2023-06-22T02:45:05.594Z-error: Record has not found yet
+2023-06-22T02:45:38.105Z-error: Internal Server Error
+2023-06-22T02:45:38.110Z-error: Record has not found yet
+2023-06-22T02:46:06.303Z-error: Internal Server Error
+2023-06-22T02:46:06.307Z-error: Record has not found yet
+2023-06-22T02:46:22.396Z-error: Internal Server Error
+2023-06-22T02:46:22.400Z-error: Record has not found yet
+2023-06-22T02:46:29.887Z-error: Internal Server Error
+2023-06-22T02:46:29.891Z-error: Record has not found yet
+2023-06-22T02:48:14.326Z-error: Internal Server Error
+2023-06-22T02:48:14.330Z-error: Record has not found yet
+2023-06-22T02:48:14.331Z-error: Internal Server Error
+2023-06-22T02:48:37.967Z-error: Internal Server Error
+2023-06-22T02:48:37.970Z-error: Record has not found yet
+2023-06-22T02:48:37.971Z-error: Internal Server Error
+2023-06-22T02:51:42.196Z-error: Internal Server Error
+2023-06-22T02:51:42.201Z-error: Record has not found yet
+2023-06-22T02:51:42.202Z-error: Internal Server Error
+2023-06-22T02:51:49.412Z-error: Internal Server Error
+2023-06-22T02:51:49.417Z-error: Record has not found yet
+2023-06-22T02:51:49.419Z-error: Internal Server Error
+2023-06-22T02:53:04.812Z-error: Internal Server Error
+2023-06-22T02:53:04.816Z-error: Record has not found yet
+2023-06-22T02:53:04.817Z-error: Internal Server Error
+2023-06-22T02:53:27.789Z-error: Internal Server Error
+2023-06-22T02:53:27.793Z-error: Record has not found yet
+2023-06-22T02:53:27.794Z-error: Internal Server Error
+2023-06-22T02:53:40.236Z-error: Internal Server Error
+2023-06-22T02:53:40.241Z-error: Record has not found yet
+2023-06-22T02:53:40.241Z-error: Internal Server Error
+2023-06-22T02:56:15.271Z-error: Internal Server Error
+2023-06-22T02:56:15.280Z-error: Record has not found yet
+2023-06-22T02:56:15.281Z-error: Internal Server Error
+2023-06-22T02:57:38.625Z-error: Internal Server Error
+2023-06-22T02:57:38.628Z-error: Record has not found yet
+2023-06-22T02:57:38.629Z-error: Internal Server Error
+2023-06-23T00:59:18.508Z-error: Failed to update doctor from service
+2023-06-23T00:59:18.509Z-error: Failed to update doctor
+2023-06-23T01:00:05.291Z-error: Failed to update doctor from service
+2023-06-23T01:00:05.291Z-error: Failed to update doctor
+2023-06-23T01:30:52.709Z-error: Failed get patient by id in repository
+2023-06-23T01:30:52.709Z-error: Record has not found yet
+2023-06-23T01:32:58.841Z-error: Record has not found yet
+2023-06-23T01:35:39.741Z-error: Failed get patient by id in repository
+2023-06-23T01:35:39.741Z-error: Record has not found yet
+2023-06-23T01:38:36.213Z-error: Failed get patient by id in repository
+2023-06-23T01:38:36.213Z-error: Record has not found yet
+2023-06-23T01:41:49.636Z-error: Id must be a number
+2023-06-24T02:23:13.727Z-error: Failed get appointment by id in repository
+2023-06-24T02:23:13.727Z-error: Failed to get appointment from service
+2023-06-24T02:23:13.728Z-error: Record has not found yet
+2023-06-24T02:28:08.476Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:28:53.679Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:28:53.679Z-error: Failed getting all appointments from service
+2023-06-24T02:30:50.112Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:30:50.112Z-error: Failed getting all appointments from service aca
+2023-06-24T02:40:46.437Z-error: Failed to create doctor dubt: error: database "gestion_citas1" does not exist
+2023-07-18T20:46:44.483Z-error: Failed to create appointment from service
+2023-07-18T20:48:51.830Z-error: Failed get doctor by id in repository
+2023-07-18T20:48:51.832Z-error: Record has not found yet
+2023-07-18T20:49:01.346Z-error: Failed to create appointment from service
+2023-07-18T21:15:21.903Z-error: Failed to create appointment from service
+2023-07-18T21:15:49.270Z-error: Failed to create appointment from service
+2023-07-18T21:15:53.667Z-error: Failed get doctor by id in repository
+2023-07-18T21:15:53.669Z-error: Record has not found yet
+2023-07-18T21:16:02.516Z-error: Failed to create appointment from service
+2023-07-18T21:16:25.103Z-error: Failed to create appointment from service
+2023-07-18T21:16:32.588Z-error: Failed to create appointment from service
+2023-07-18T21:16:42.457Z-error: Failed get doctor by id in repository
+2023-07-18T21:16:42.458Z-error: Record has not found yet
+2023-07-18T21:24:48.304Z-error: Failed get doctor by id in repository
+2023-07-18T21:24:48.305Z-error: Record has not found yet
+2023-07-18T21:25:02.632Z-error: Failed to create appointment from service
+2023-07-18T21:52:13.593Z-error: Failed to create appointment from service
+2023-07-18T22:03:12.627Z-error: Id must be a number
+2023-07-18T22:03:45.157Z-error: Id must be a number
+2023-07-18T22:04:32.391Z-error: Failed get doctor by id in repository
+2023-07-18T22:04:32.392Z-error: Record has not found yet
+2023-07-18T22:14:38.143Z-error: Failed to create appointment from service
+2023-07-19T00:26:36.937Z-error: Failed get doctor by id in repository
+2023-07-19T00:26:36.938Z-error: Record has not found yet
+2023-07-19T00:26:54.399Z-error: Failed get doctor by id in repository
+2023-07-19T00:26:54.401Z-error: Record has not found yet
+2023-07-19T00:27:06.153Z-error: Id must be a number
+2023-07-19T00:27:20.254Z-error: Id must be a number
+2023-07-19T00:27:29.307Z-error: Id must be a number
+2023-07-19T00:27:50.528Z-error: Id must be a number
+2023-07-19T00:28:06.307Z-error: Id must be a number
+2023-07-19T00:28:10.679Z-error: Id must be a number
+2023-07-19T00:29:11.112Z-error: Id must be a number
+2023-07-19T00:38:53.978Z-error: Failed get doctor by id in repository
+2023-07-19T00:38:53.979Z-error: Record has not found yet
+2023-07-19T00:47:28.931Z-error: Failed to create appointment from service
+2023-07-19T00:48:20.776Z-error: Id must be a number
+2023-07-19T01:05:54.263Z-error: Failed get doctor by id in repository
+2023-07-19T01:05:54.265Z-error: Record has not found yet
+2023-07-19T01:47:52.277Z-error: Internal Server Error
+2023-07-19T01:47:52.286Z-error: Record has not found yet
+2023-07-19T01:47:52.288Z-error: Internal Server Error
+2023-07-19T02:01:33.548Z-error: Failed get doctor by id in repository
+2023-07-19T02:01:33.549Z-error: Record has not found yet
+2023-07-19T02:01:51.366Z-error: Id must be a number
+2023-07-19T02:25:32.659Z-error: Id must be a number
+2023-07-19T02:25:35.870Z-error: Failed to create appointment from service
+2023-07-19T02:26:00.192Z-error: Failed get doctor by id in repository
+2023-07-19T02:26:00.193Z-error: Record has not found yet
+2023-07-19T03:59:14.074Z-error: Unexpected token m in JSON at position 22
+2023-07-19T04:17:08.613Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - value "3132267388" is out of range for type integer
+2023-07-19T04:17:24.103Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - value "3132267388" is out of range for type integer
+2023-07-19T19:50:32.150Z-error: Record has not found yet
+2023-07-19T19:50:32.163Z-error: Internal Server Error
+2023-07-19T19:50:32.447Z-error: Internal Server Error
+2023-07-19T19:50:32.457Z-error: Record has not found yet
+2023-07-19T19:50:32.458Z-error: Internal Server Error
+2023-07-19T19:53:55.935Z-error: Record has not found yet
+2023-07-19T19:53:55.944Z-error: Internal Server Error
+2023-07-19T19:53:56.065Z-error: Internal Server Error
+2023-07-19T19:53:56.086Z-error: Record has not found yet
+2023-07-19T19:53:56.088Z-error: Internal Server Error
+2023-07-19T20:08:02.469Z-error: Internal Server Error
+2023-07-19T20:08:02.481Z-error: Record has not found yet
+2023-07-19T20:08:02.483Z-error: Internal Server Error
+2023-07-19T20:08:02.607Z-error: Record has not found yet
+2023-07-19T20:08:02.620Z-error: Internal Server Error
+2023-07-19T20:24:20.254Z-error: Internal Server Error
+2023-07-19T20:24:20.266Z-error: Record has not found yet
+2023-07-19T20:24:20.269Z-error: Internal Server Error
+2023-07-19T20:24:20.356Z-error: Record has not found yet
+2023-07-19T20:24:20.367Z-error: Internal Server Error
+2023-07-19T20:31:23.054Z-error: Internal Server Error
+2023-07-19T20:31:23.064Z-error: Record has not found yet
+2023-07-19T20:31:23.066Z-error: Internal Server Error
+2023-07-19T20:31:23.138Z-error: Record has not found yet
+2023-07-19T20:31:23.151Z-error: Internal Server Error
+2023-07-19T20:33:28.212Z-error: Internal Server Error
+2023-07-19T20:33:28.222Z-error: Record has not found yet
+2023-07-19T20:33:28.224Z-error: Internal Server Error
+2023-07-19T20:33:28.360Z-error: Record has not found yet
+2023-07-19T20:33:28.369Z-error: Internal Server Error
+2023-07-19T20:35:17.604Z-error: Record has not found yet
+2023-07-19T20:35:17.614Z-error: Internal Server Error
+2023-07-19T20:35:17.763Z-error: Internal Server Error
+2023-07-19T20:35:17.772Z-error: Record has not found yet
+2023-07-19T20:35:17.774Z-error: Internal Server Error
+2023-07-19T20:39:51.154Z-error: Internal Server Error
+2023-07-19T20:39:51.170Z-error: Record has not found yet
+2023-07-19T20:39:51.172Z-error: Internal Server Error
+2023-07-19T20:43:12.553Z-error: Internal Server Error
+2023-07-19T20:43:12.563Z-error: Record has not found yet
+2023-07-19T20:43:12.565Z-error: Internal Server Error
+2023-07-19T20:43:53.833Z-error: Internal Server Error
+2023-07-19T20:43:53.845Z-error: Record has not found yet
+2023-07-19T20:43:53.847Z-error: Internal Server Error
+2023-07-19T20:43:53.926Z-error: Record has not found yet
+2023-07-19T20:43:53.936Z-error: Internal Server Error
+2023-07-19T21:15:36.721Z-error: Internal Server Error
+2023-07-19T21:15:36.733Z-error: Record has not found yet
+2023-07-19T21:15:36.734Z-error: Internal Server Error
+2023-07-19T21:15:36.716Z-error: Record has not found yet
+2023-07-19T21:15:36.727Z-error: Internal Server Error
+2023-07-19T21:18:09.262Z-error: Internal Server Error
+2023-07-19T21:18:09.272Z-error: Record has not found yet
+2023-07-19T21:18:09.275Z-error: Internal Server Error
+2023-07-19T21:18:09.341Z-error: Record has not found yet
+2023-07-19T21:18:09.357Z-error: Internal Server Error
+2023-07-19T21:22:20.294Z-error: Internal Server Error
+2023-07-19T21:22:20.307Z-error: Record has not found yet
+2023-07-19T21:22:20.309Z-error: Internal Server Error
+2023-07-19T21:22:20.356Z-error: Record has not found yet
+2023-07-19T21:22:20.376Z-error: Internal Server Error
+2023-07-19T21:23:38.183Z-error: Internal Server Error
+2023-07-19T21:23:38.195Z-error: Record has not found yet
+2023-07-19T21:23:38.197Z-error: Internal Server Error
+2023-07-19T21:23:38.271Z-error: Record has not found yet
+2023-07-19T21:23:38.283Z-error: Internal Server Error
+2023-07-19T21:24:45.487Z-error: Internal Server Error
+2023-07-19T21:24:45.497Z-error: Record has not found yet
+2023-07-19T21:24:45.499Z-error: Internal Server Error
+2023-07-19T21:24:45.600Z-error: Record has not found yet
+2023-07-19T21:24:45.608Z-error: Internal Server Error
+2023-07-19T21:25:22.269Z-error: Record has not found yet
+2023-07-19T21:25:22.282Z-error: Internal Server Error
+2023-07-19T21:25:22.398Z-error: Internal Server Error
+2023-07-19T21:25:22.412Z-error: Record has not found yet
+2023-07-19T21:25:22.414Z-error: Internal Server Error
+2023-07-19T21:27:10.610Z-error: Internal Server Error
+2023-07-19T21:27:10.620Z-error: Record has not found yet
+2023-07-19T21:27:10.622Z-error: Internal Server Error
+2023-07-19T21:27:10.745Z-error: Record has not found yet
+2023-07-19T21:27:10.753Z-error: Internal Server Error
+2023-07-19T21:28:55.414Z-error: Internal Server Error
+2023-07-19T21:28:55.424Z-error: Record has not found yet
+2023-07-19T21:28:55.426Z-error: Internal Server Error
+2023-07-19T21:28:55.536Z-error: Record has not found yet
+2023-07-19T21:28:55.545Z-error: Internal Server Error
+2023-07-19T21:30:43.857Z-error: Internal Server Error
+2023-07-19T21:30:43.876Z-error: Record has not found yet
+2023-07-19T21:30:43.878Z-error: Internal Server Error
+2023-07-19T21:30:44.008Z-error: Record has not found yet
+2023-07-19T21:30:44.015Z-error: Internal Server Error
+2023-07-19T21:30:44.021Z-error: Internal Server Error
+2023-07-19T21:38:09.805Z-error: Record has not found yet
+2023-07-19T21:38:09.816Z-error: Internal Server Error
+2023-07-19T21:38:09.827Z-error: Internal Server Error
+2023-07-19T21:38:10.174Z-error: Internal Server Error
+2023-07-19T21:38:10.183Z-error: Record has not found yet
+2023-07-19T21:38:10.184Z-error: Internal Server Error
+2023-07-19T21:38:39.286Z-error: Record has not found yet
+2023-07-19T21:38:39.298Z-error: Internal Server Error
+2023-07-19T21:38:39.305Z-error: Internal Server Error
+2023-07-19T21:38:39.657Z-error: Internal Server Error
+2023-07-19T21:38:39.666Z-error: Record has not found yet
+2023-07-19T21:38:39.668Z-error: Internal Server Error
+2023-07-19T21:39:14.498Z-error: Record has not found yet
+2023-07-19T21:39:14.513Z-error: Internal Server Error
+2023-07-19T21:39:14.523Z-error: Internal Server Error
+2023-07-19T21:39:14.662Z-error: Internal Server Error
+2023-07-19T21:39:14.672Z-error: Record has not found yet
+2023-07-19T21:39:14.674Z-error: Internal Server Error
+2023-07-19T21:53:40.788Z-error: Record has not found yet
+2023-07-19T21:53:40.798Z-error: Internal Server Error
+2023-07-19T21:53:40.811Z-error: Internal Server Error
+2023-07-19T21:53:40.962Z-error: Internal Server Error
+2023-07-19T21:53:40.971Z-error: Record has not found yet
+2023-07-19T21:53:40.972Z-error: Internal Server Error
+2023-07-19T21:57:00.017Z-error: Record has not found yet
+2023-07-19T21:57:00.028Z-error: Internal Server Error
+2023-07-19T21:57:00.035Z-error: Internal Server Error
+2023-07-19T21:57:00.420Z-error: Internal Server Error
+2023-07-19T21:57:00.429Z-error: Record has not found yet
+2023-07-19T21:57:00.430Z-error: Internal Server Error
+2023-07-19T21:57:34.781Z-error: Record has not found yet
+2023-07-19T21:57:34.792Z-error: Internal Server Error
+2023-07-19T21:57:34.798Z-error: Internal Server Error
+2023-07-19T21:57:35.173Z-error: Internal Server Error
+2023-07-19T21:57:35.182Z-error: Record has not found yet
+2023-07-19T21:57:35.183Z-error: Internal Server Error
+2023-07-19T21:58:51.409Z-error: Record has not found yet
+2023-07-19T21:58:51.421Z-error: Internal Server Error
+2023-07-19T21:58:51.429Z-error: Internal Server Error
+2023-07-19T21:58:51.780Z-error: Internal Server Error
+2023-07-19T21:58:51.789Z-error: Record has not found yet
+2023-07-19T21:58:51.790Z-error: Internal Server Error
+2023-07-19T21:59:19.852Z-error: Record has not found yet
+2023-07-19T21:59:19.862Z-error: Internal Server Error
+2023-07-19T21:59:19.869Z-error: Internal Server Error
+2023-07-19T21:59:20.200Z-error: Internal Server Error
+2023-07-19T21:59:20.209Z-error: Record has not found yet
+2023-07-19T21:59:20.210Z-error: Internal Server Error
+2023-07-19T21:59:56.159Z-error: Record has not found yet
+2023-07-19T21:59:56.168Z-error: Internal Server Error
+2023-07-19T21:59:56.174Z-error: Internal Server Error
+2023-07-19T21:59:56.534Z-error: Internal Server Error
+2023-07-19T21:59:56.543Z-error: Record has not found yet
+2023-07-19T21:59:56.545Z-error: Internal Server Error
+2023-07-19T22:17:36.218Z-error: Internal Server Error
+2023-07-19T22:17:36.233Z-error: Record has not found yet
+2023-07-19T22:17:36.235Z-error: Internal Server Error
+2023-07-19T22:17:36.275Z-error: Record has not found yet
+2023-07-19T22:17:36.288Z-error: Internal Server Error
+2023-07-19T22:17:36.299Z-error: Internal Server Error
+2023-07-19T22:41:31.052Z-error: Internal Server Error
+2023-07-19T22:41:31.064Z-error: Record has not found yet
+2023-07-19T22:41:31.067Z-error: Internal Server Error
+2023-07-19T22:41:31.187Z-error: Record has not found yet
+2023-07-19T22:41:31.199Z-error: Internal Server Error
+2023-07-19T22:41:31.208Z-error: Internal Server Error
+2023-07-19T22:42:56.491Z-error: Record has not found yet
+2023-07-19T22:42:56.503Z-error: Internal Server Error
+2023-07-19T22:42:56.515Z-error: Internal Server Error
+2023-07-19T22:42:56.616Z-error: Internal Server Error
+2023-07-19T22:42:56.628Z-error: Record has not found yet
+2023-07-19T22:42:56.631Z-error: Internal Server Error
+2023-07-19T22:53:22.325Z-error: Record has not found yet
+2023-07-19T22:53:22.337Z-error: Internal Server Error
+2023-07-19T22:53:22.346Z-error: Internal Server Error
+2023-07-19T22:53:22.564Z-error: Internal Server Error
+2023-07-19T22:53:22.574Z-error: Record has not found yet
+2023-07-19T22:53:22.576Z-error: Internal Server Error
+2023-07-19T23:16:09.571Z-error: Record has not found yet
+2023-07-19T23:16:09.585Z-error: Internal Server Error
+2023-07-19T23:16:09.600Z-error: Internal Server Error
+2023-07-19T23:16:09.764Z-error: Internal Server Error
+2023-07-19T23:16:09.773Z-error: Record has not found yet
+2023-07-19T23:16:09.775Z-error: Internal Server Error
+2023-07-19T23:26:06.060Z-error: Record has not found yet
+2023-07-19T23:26:06.073Z-error: Internal Server Error
+2023-07-19T23:26:06.084Z-error: Internal Server Error
+2023-07-19T23:26:06.262Z-error: Internal Server Error
+2023-07-19T23:26:06.273Z-error: Record has not found yet
+2023-07-19T23:26:06.275Z-error: Internal Server Error
+2023-07-19T23:26:06.355Z-error: Failed to delete doctor from service
+2023-07-19T23:29:44.863Z-error: Record has not found yet
+2023-07-19T23:29:44.873Z-error: Internal Server Error
+2023-07-19T23:29:44.878Z-error: Internal Server Error
+2023-07-19T23:29:45.011Z-error: Internal Server Error
+2023-07-19T23:29:45.021Z-error: Record has not found yet
+2023-07-19T23:29:45.023Z-error: Internal Server Error
+2023-07-19T23:29:45.124Z-error: Failed to delete doctor from service
+2023-07-19T23:29:45.133Z-error: Failed to delete doctor from service
+2023-07-19T23:29:45.135Z-error: Failed to delete doctor from service
+2023-07-19T23:30:43.475Z-error: Record has not found yet
+2023-07-19T23:30:43.486Z-error: Internal Server Error
+2023-07-19T23:30:43.492Z-error: Internal Server Error
+2023-07-19T23:30:43.651Z-error: Internal Server Error
+2023-07-19T23:30:43.663Z-error: Record has not found yet
+2023-07-19T23:30:43.665Z-error: Internal Server Error
+2023-07-19T23:30:43.832Z-error: Failed to delete doctor from service
+2023-07-19T23:30:43.842Z-error: Failed to delete doctor from service
+2023-07-19T23:33:45.154Z-error: Record has not found yet
+2023-07-19T23:33:45.166Z-error: Internal Server Error
+2023-07-19T23:33:45.173Z-error: Internal Server Error
+2023-07-19T23:33:45.216Z-error: Failed to delete doctor from service
+2023-07-19T23:33:45.337Z-error: Internal Server Error
+2023-07-19T23:33:45.348Z-error: Record has not found yet
+2023-07-19T23:33:45.350Z-error: Internal Server Error
+2023-07-19T23:40:47.309Z-error: Record has not found yet
+2023-07-19T23:40:47.321Z-error: Internal Server Error
+2023-07-19T23:40:47.333Z-error: Internal Server Error
+2023-07-19T23:40:47.330Z-error: Failed to delete doctor from service
+2023-07-19T23:40:47.346Z-error: Failed to delete doctor from service
+2023-07-19T23:40:47.577Z-error: Internal Server Error
+2023-07-19T23:40:47.587Z-error: Record has not found yet
+2023-07-19T23:40:47.589Z-error: Internal Server Error
+2023-07-19T23:41:52.437Z-error: Record has not found yet
+2023-07-19T23:41:52.448Z-error: Internal Server Error
+2023-07-19T23:41:52.454Z-error: Internal Server Error
+2023-07-19T23:41:52.574Z-error: Internal Server Error
+2023-07-19T23:41:52.588Z-error: Record has not found yet
+2023-07-19T23:41:52.590Z-error: Internal Server Error
+2023-07-19T23:41:52.690Z-error: Failed to delete doctor from service
+2023-07-19T23:41:52.700Z-error: Failed to delete doctor from service
+2023-07-19T23:42:46.765Z-error: Record has not found yet
+2023-07-19T23:42:46.779Z-error: Internal Server Error
+2023-07-19T23:42:46.784Z-error: Internal Server Error
+2023-07-19T23:42:46.898Z-error: Internal Server Error
+2023-07-19T23:42:46.913Z-error: Record has not found yet
+2023-07-19T23:42:46.915Z-error: Internal Server Error
+2023-07-19T23:42:47.010Z-error: Failed to delete doctor from service
+2023-07-19T23:42:47.026Z-error: Failed to delete doctor from service
+2023-07-19T23:44:23.875Z-error: Failed to delete doctor from service
+2023-07-19T23:44:23.887Z-error: Failed to delete doctor from service
+2023-07-19T23:44:23.897Z-error: Record has not found yet
+2023-07-19T23:44:23.908Z-error: Internal Server Error
+2023-07-19T23:44:23.920Z-error: Internal Server Error
+2023-07-19T23:44:24.229Z-error: Internal Server Error
+2023-07-19T23:44:24.238Z-error: Record has not found yet
+2023-07-19T23:44:24.239Z-error: Internal Server Error
+2023-07-20T00:31:36.031Z-error: Record has not found yet
+2023-07-20T00:31:38.561Z-error: Record has not found yet
+2023-07-20T00:52:02.061Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "created_at", "identificacion", "nombre", "telefono", "updated_at") values ($1, $2, $3, $4, $5, $6) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T00:52:39.654Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "created_at", "id_paciente", "identificacion", "nombre", "telefono", "updated_at") values ($1, $2, $3, $4, $5, $6, $7) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T00:53:00.665Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "created_at", "id_paciente", "identificacion", "nombre", "telefono", "updated_at") values ($1, $2, $3, $4, $5, $6, $7) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T00:53:11.644Z-error: Unexpected token } in JSON at position 158
+2023-07-20T00:53:17.113Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T00:53:44.604Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T00:55:15.052Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T01:05:59.311Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T01:06:38.949Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T01:06:45.378Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-20T01:07:02.479Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_pkey"
+2023-07-20T01:07:31.288Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_pkey"
+2023-07-20T01:07:38.429Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_pkey"
+2023-07-20T01:07:47.908Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_pkey"
+2023-07-20T01:07:53.307Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "id_paciente", "identificacion", "nombre", "telefono") values ($1, $2, $3, $4, $5) returning * - duplicate key value violates unique constraint "pacientes_pkey"
+2023-07-20T01:14:28.538Z-error: Patient not found
+2023-07-20T01:14:28.540Z-error: Record has not found yet
+2023-07-20T01:14:44.838Z-error: Failed get doctor by id in repository
+2023-07-20T01:14:44.840Z-error: Failed to delete doctor from service
+2023-07-20T01:14:44.841Z-error: Failed to delete doctor
+2023-07-20T02:30:30.018Z-error: Record has not found yet
+2023-07-20T02:30:30.027Z-error: Internal Server Error
+2023-07-20T02:30:30.036Z-error: Internal Server Error
+2023-07-20T05:18:05.805Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:18:08.990Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:18:16.009Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:18:19.991Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:18:22.826Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:19:41.090Z-error: Id must be a number
+2023-07-20T05:20:05.986Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:22:43.975Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:25:10.520Z-error: select * from "citas1" - relation "citas1" does not exist
+2023-07-20T05:25:10.521Z-error: Failed getting all appointments from service
+2023-07-20T05:25:44.492Z-error: select * from "citas1" - relation "citas1" does not exist
+2023-07-20T05:25:44.493Z-error: Failed getting all appointments from service
+2023-07-20T05:25:57.065Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:26:37.125Z-error: select * from "citas1" - relation "citas1" does not exist
+2023-07-20T05:26:37.125Z-error: Failed getting all appointments from service
+2023-07-20T05:27:19.819Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:28:27.072Z-error: Id must be a number
+2023-07-20T05:28:42.105Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:28:45.915Z-error: Id must be a number
+2023-07-20T05:31:26.794Z-error: Id must be a number
+2023-07-20T05:32:50.878Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:34:35.585Z-error: class CreationError extends Error {
+    constructor(message, componentName) {
+        super(message);
+        this.name = `${componentName}CreationError`;
+    }
+}
+2023-07-20T05:37:43.127Z-error: Failed to create appointment
+2023-07-20T06:03:16.087Z-error: Unexpected end of JSON input
+2023-07-20T06:03:25.935Z-error: Unexpected end of JSON input
+2023-07-20T06:03:56.676Z-error: Failed creating patient
+2023-07-20T06:04:02.441Z-error: Failed creating patient
+2023-07-20T06:08:10.588Z-error: Failed to create appointment
+2023-07-20T06:10:00.158Z-error: Failed to create appointment
+2023-07-20T06:24:08.297Z-error: Failed to create appointment
+2023-07-20T06:25:19.823Z-error: Failed to create appointment by service
+2023-07-20T06:45:19.224Z-error: Failed get doctor by id in repository
+2023-07-20T06:45:19.225Z-error: Appointment creation failed
+2023-07-20T06:46:27.940Z-error: Failed get doctor by id in repository
+2023-07-20T06:46:27.941Z-error: Appointment creation failed
+2023-07-20T06:48:24.372Z-error: Failed get doctor by id in repository
+2023-07-20T06:48:24.374Z-error: Appointment creation failed
+2023-07-20T06:54:00.826Z-error: Failed get doctor by id in repository
+2023-07-20T06:54:00.827Z-error: Appointment creation failed
+2023-07-20T06:54:28.669Z-error: Failed get doctor by id in repository
+2023-07-20T06:54:28.671Z-error: Appointment creation failed
+2023-07-20T06:54:55.206Z-error: Failed get doctor by id in repository
+2023-07-20T06:54:55.207Z-error: Appointment creation failed
